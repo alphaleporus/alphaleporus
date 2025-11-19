@@ -1,9 +1,8 @@
-[![Holopin Badges](https://holopin.me/alphaleporus)](https://holopin.io/@alphaleporus)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&duration=1800&pause=700&color=7DF9FF&vCenter=true&center=true&width=500&lines=Running+on+2+hours+of+sleep+%E2%9A%A1;Fluent+in+Python+%26+Java+%F0%9F%8C%88;GSoC+%E2%80%9826+loading%E2%80%A6+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
 ![Snake animation](https://github.com/alphaleporus/alphaleporus/raw/output/github-contribution-grid-snake-dark.svg)
 
-<div align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;I+speak+Python+and+C%2B%2B;Open+Source+Enthusiast;GSoC+2026+Aspirant" alt="Typing SVG" />
-</a>
-</div>
+
+[![Holopin Badges](https://holopin.me/alphaleporus)](https://holopin.io/@alphaleporus)
