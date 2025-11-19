@@ -9,7 +9,7 @@
   <br/>
   
   <a href="https://holopin.io/@alphaleporus">
-    <img src="https://holopin.io/api/user/alphaleporus?layout=board&col=4" alt="Holopin Board" />
+    <img src="https://holopin.me/alphaleporus" alt="Holopin Badges" width="100%" />
   </a>
 
 </div>
