@@ -12,4 +12,6 @@
     <img src="https://holopin.me/alphaleporus" alt="Holopin Badges" width="100%" />
   </a>
 
+<p>Enjoy the traffic!</p>
 </div>
+
